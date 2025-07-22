@@ -4,7 +4,7 @@ A modern, full-stack AI-powered Q&A web application built with **FastAPI** and *
 
 ## 🚀 Live Demo
 
-*Add your deployed application URL here*
+// TODO : Add deployed URL
 
 ## 📋 Project Overview
 
